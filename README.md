@@ -1,7 +1,9 @@
 # Weather Dashboard
 
 Name: Zain Alli
+
 Student Number: ST10519974
+
 GitHub Repository Link: https://github.com/ST10519974/MAST_ICE-TASK
 
 ## 1. Introduction
